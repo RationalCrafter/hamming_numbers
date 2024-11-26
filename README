@@ -1,0 +1,18 @@
+Hamming numbers are numbers of the form  
+
+    H = 2^i * 3^j * 5^k
+           where 
+     i,  j,  k  ≥  0 
+
+Hamming numbers   are also known as   ugly numbers   and also   5-smooth numbers   (numbers whose prime divisors are less or equal to 5).
+
+
+Task
+
+Generate the sequence of Hamming numbers, in increasing order.   In particular:
+
+    Show the   first twenty   Hamming numbers.
+    Show the   1691st   Hamming number (the last one below   231).
+    Show the   one millionth   Hamming number (if the language – or a convenient library – supports arbitrary-precision integers).
+
+(Source: Rosetta code)
